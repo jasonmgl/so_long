@@ -44,10 +44,10 @@ Replace your_map.ber with the path to your desired map file.
 - MiniLibX: Depends on the MiniLibX library for graphical rendering. Ensure that MiniLibX is properly installed on your system.
 
 ## DESCRIPTIONS
-bonus: Contains additional features and enhancements beyond the basic requirements.
-include: Contains header files defining function prototypes and necessary macros.
 libft: Includes the libft library, providing essential utilities for string manipulation, memory management, and other helper functions.
+
 maps: Houses map files used by the program to render different game levels.
+
 minilibx-linux: Contains the MiniLibX library files necessary for graphical rendering on Linux systems.
+
 sprites: Stores sprite images used for rendering the game characters and environment.
-src: Holds the source code for the main functionalities of the game, including initialization, rendering, and event handling.
